@@ -1,24 +1,7 @@
-# t
+#veu-router4
 
-## Project setup
-```
-yarn install
-```
+#サイト
+https://vue-3-simple-routing.netlify.app
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#解説
+https://www.vuemastery.com/blog/vue-router-a-tutorial-for-vue-3/
