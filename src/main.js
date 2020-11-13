@@ -4,7 +4,7 @@ import { routes } from "./router";
 import { createRouter, createWebHistory } from "vue-router";
 
 let router = createRouter({
-  // history: createWebHistory(),
+  history: createWebHistory(),
   routes: routes
 });
 
